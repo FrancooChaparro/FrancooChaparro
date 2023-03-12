@@ -30,3 +30,14 @@ NO DUDES CONTACTARME A TRAVÉS DE:
 
 
 
+<head>
+  <style>
+    /* Estilos CSS */
+    body {
+      font-family: Arial, sans-serif;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      font-family: "Times New Roman", Times, serif;
+    }
+  </style>
+</head>
