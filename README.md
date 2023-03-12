@@ -36,6 +36,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/
 
 
 
+---
+
 
 ESTOY ESTUDIANDO ACTUALMENTE:
 
@@ -50,6 +52,7 @@ ESTOY ESTUDIANDO ACTUALMENTE:
 
 
 
+---
 NO DUDES CONTACTARME A TRAVÉS DE:
 
 - Email: [francoo_chaparro@gmail.com](mailto:francoo_chaparro@gmail.com)
