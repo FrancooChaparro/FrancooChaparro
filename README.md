@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
  TENGO CONOCIMIENTOS EN: 
- 
- # Mi Proyecto
 
 
 - <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="JavaScript" height="20"/> JavaScript
