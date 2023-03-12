@@ -1,15 +1,4 @@
-### Hi there 👋
-<head>
-  <style>
-    /* Estilos CSS */
-    body {
-      font-family: Arial, sans-serif;
-    }
-    h1, h2, h3, h4, h5, h6 {
-      font-family: "Times New Roman", Times, serif;
-    }
-  </style>
-</head>
+### Hi Buenas, Soy franco 👋 
 
 <!--
 **FrancooChaparro/FrancooChaparro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
