@@ -36,21 +36,22 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/
 
 
 
-NO DUDES CONTACTARME A TRAVÉS DE:
-
-- Email: [francoo_chaparro@gmail.com](mailto:francoo_chaparro@gmail.com)
-- WhatsApp: <a href="https://web.whatsapp.com/send?phone=5491132041229">+5491132041229</a>
-
 
 ESTOY ESTUDIANDO ACTUALMENTE:
 
 <div>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
- 
-   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50" height="50"/> 
 </div>
 
+
+
+
+NO DUDES CONTACTARME A TRAVÉS DE:
+
+- Email: [francoo_chaparro@gmail.com](mailto:francoo_chaparro@gmail.com)
+- WhatsApp: <a href="https://web.whatsapp.com/send?phone=5491132041229">+5491132041229</a>
 
