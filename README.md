@@ -1,5 +1,5 @@
-###  <h1 align="center" style="font-size: 90px; margin-bottom: 250px">Buenas, soy Franco 👋</h1>
-
+###  <h1 align="center" style="font-size: 90px;">Buenas, soy Franco 👋</h1>
+---
 
 <!--
 **FrancooChaparro/FrancooChaparro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
