@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 
  TENGO CONOCIMIENTOS EN: 
 
-# Mi Proyecto
-
-# Mi Proyecto
-# Mi Proyecto
-
-Este es mi increíble proyecto que utiliza las siguientes tecnologías:
-
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/> JavaScript
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25" height="25"/> React
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="25" height="25"/> Redux
@@ -35,7 +28,6 @@ Este es mi increíble proyecto que utiliza las siguientes tecnologías:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="25" height="25"/> Sequelize
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="25" height="25"/> Express.js
 
-¡Gracias por visitar mi proyecto!
 
 
 
