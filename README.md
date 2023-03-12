@@ -57,6 +57,8 @@ NO DUDES CONTACTARME A TRAVÉS DE:
   <img src="https://raw.githubusercontent.com/ant-design/ant-design-icons/master/icons/outline/ant-design.svg" alt="Ant Design" width="50" height="50"/>
 </div>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" alt="Ant Design" width="50" height="50"/>
+
 
 
 
