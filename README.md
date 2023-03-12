@@ -17,15 +17,19 @@ Here are some ideas to get you started:
 
  TENGO CONOCIMIENTOS EN: 
 
+# Mi Proyecto
 
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="JavaScript" height="20"/> JavaScript
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/react/react.png" alt="React" height="20"/> React
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/redux/redux.png" alt="Redux" height="20"/> Redux
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/nodejs/nodejs.png" alt="Node.js" height="20"/> Node.js
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" alt="HTML" height="20"/> HTML
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" alt="CSS" height="20"/> CSS
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/bootstrap/bootstrap.png" alt="Bootstrap" height="20"/> Bootstrap
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/postgresql/postgresql.png" alt="PostgreSQL" height="20"/> PostgreSQL
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/sequelize/sequelize.png" alt="Sequelize" height="20"/> Sequelize
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/express/express.png" alt="Express" height="20"/> Express
+
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
+- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React
+- ![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg) Redux
+- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) Node.js
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML5
+- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS3
+- ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg) Bootstrap
+- ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) PostgreSQL
+- ![Sequelize](https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg) Sequelize
+- ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg) Express.js
+
+
 
