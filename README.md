@@ -1,5 +1,6 @@
 ###  Buenas, Soy franco 👋
 ### p align="center"><img src="https://raw.githubusercontent.com/francochaparro/francochaparro/main/assets/hello.gif" width="40px"><br><b>Buenas, soy Franco</b></p>
+<p align="center" style="font-size: 60px;">Buenas, soy Franco</p>
 
 <!--
 **FrancooChaparro/FrancooChaparro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
