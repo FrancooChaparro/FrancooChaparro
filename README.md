@@ -19,17 +19,24 @@ Here are some ideas to get you started:
 
 # Mi Proyecto
 
+# Mi Proyecto
+# Mi Proyecto
 
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React
-- ![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg) Redux
-- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) Node.js
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML5
-- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS3
-- ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg) Bootstrap
-- ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) PostgreSQL
-- ![Sequelize](https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg) Sequelize
-- ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg) Express.js
+Este es mi increíble proyecto que utiliza las siguientes tecnologías:
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/> JavaScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25" height="25"/> React
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="25" height="25"/> Redux
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25"/> Node.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="25" height="25"/> HTML5
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="25" height="25"/> CSS3
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="25" height="25"/> Bootstrap
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25"/> PostgreSQL
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="25" height="25"/> Sequelize
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="25" height="25"/> Express.js
+
+¡Gracias por visitar mi proyecto!
+
 
 
 
