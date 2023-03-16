@@ -58,5 +58,5 @@ NO DUDES CONTACTARME A TRAVÉS DE:
 
 - Email: [francoo_chaparro@gmail.com](mailto:francoo_chaparro@gmail.com)
 - WhatsApp: <a href="https://web.whatsapp.com/send?phone=5491132041229">+5491132041229</a>
-- Linkedin: <a href="[https://web.whatsapp.com/send?phone=5491132041229](https://www.linkedin.com/in/fran-chaparro/)">Perfil Linkedin</a>
+- Linkedin: <a href="https://web.whatsapp.com/send?phone=5491132041229](https://www.linkedin.com/in/fran-chaparro/">Perfil Linkedin</a>
 
