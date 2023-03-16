@@ -1,6 +1,8 @@
 ###  <h1 align="center" style="font-size: 90px; margin-bottom: 60px;">Buenas, soy Franco 👋</h1>
 
+<p>Full-Stack Developer con ganas de seguir aprendiendo y mejorando en este mundo del desarrollo web.
 
+Me considero una persona con buena comunicación, pensamiento creativo, organizada y positiva, que le gusta afrontar nuevos desafíos, resolver problemas y formar parte de un equipo de trabajo.<p/>
 <!--
 **FrancooChaparro/FrancooChaparro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
