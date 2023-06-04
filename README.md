@@ -51,6 +51,7 @@ ESTOY ESTUDIANDO ACTUALMENTE:
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50" height="50"/> 
   <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
 </div>
 
 
