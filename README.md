@@ -52,6 +52,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/
 
 
 
+
+
+
 ---
 NO DUDES CONTACTARME A TRAVÉS DE:
 
