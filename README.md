@@ -2,11 +2,7 @@
 
 <p>Soy desarrollador web con 2 años de experiencia, me especializo en frontend y backend, me encargo de los proyectos de 0, y me también del diseño de la aplicación.
 
-Desarrollando MERN +1exp
-
-Desarrolle 5 aplicaciones con Typescript & React/Next13
-
-Desarrolle un E-comerce
+Desarrollando MERN +2exp
 
 • Tel: +541132041229
 
