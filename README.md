@@ -48,8 +48,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50" height="50"/>  
   <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="50" height="50"/>  
 
-
-  
 ---
 
 
