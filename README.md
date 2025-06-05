@@ -65,7 +65,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/
 ---
 NO DUDES CONTACTARME A TRAVÉS DE:
 
-- Email: [francoo_chaparro@gmail.com](mailto:francoo_chaparro@gmail.com)
+- Email: [francoo_chaparro@hotmail.com](mailto:francoo_chaparro@hotmail.com)
 - WhatsApp: <a href="https://web.whatsapp.com/send?phone=5491132041229">+5491132041229</a>
 - Linkedin: <a href="https://www.linkedin.com/in/fran-chaparro/">Perfil Linkedin</a>
 
