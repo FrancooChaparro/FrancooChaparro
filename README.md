@@ -1,6 +1,6 @@
 ###  <h1 align="center" style="font-size: 90px; margin-bottom: 60px;">Buenas, soy Franco 👋</h1>
 
-<p>Soy desarrollador web con 3 años de experiencia, con bases solidas en React, Next.JS, me encargo de los proyectos de 0, y me también del diseño de la aplicación.
+<p>Soy desarrollador web con 3 años de experiencia, con bases solidas en React, Next.JS, Actualmente estoy trabajando para House OF CB.
 
 • Tel: +541132041229
 
